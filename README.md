@@ -56,6 +56,7 @@ chmod +x setup.sh
 ```
 
 **3. Configure Environment**
+
 Edit the .env file to match your desired setup.
 
 ```bash
